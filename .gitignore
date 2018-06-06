@@ -9,3 +9,11 @@
 /build/
 
 .dropbox.attr
+*.tlog
+*.obj
+*.pdb
+*.opensdf
+*.sdf
+*.log
+*.filters
+*.ipch
